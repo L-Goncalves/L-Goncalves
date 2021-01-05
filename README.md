@@ -7,7 +7,7 @@ I'm a web dev who loves this world of coding!
 
 
 ## 📫 How to reach me:  
-     ✉Email: ldgoncalvs@gmail.com
+<img src="gmail-logo.png" width="14"> Email: ldgoncalvs@gmail.com
     
- <img src="174857.png" width="13"> LinkedIn: l-goncalves12
+<img src="174857.png" width="14"> LinkedIn: [Lucas Gonçalves](https://www.linkedin.com/in/l-goncalves12/)
      
