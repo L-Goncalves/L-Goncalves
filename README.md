@@ -1,6 +1,6 @@
 # Hi I'm Lucas Gonçalves👋
 
-
+<img src="coding.gif" width="1000" height="200">
 
 A Front-End Web dev who's been in love with the world of coding! my journey in this world of coding started in 2018, when I was 17 Years old.
 Since then I've never stopped thinking about the possibilities that coding can bring to this world!
