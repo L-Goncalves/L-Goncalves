@@ -8,5 +8,5 @@ I'm a web dev who loves this world of coding!
 
 ## 📫 How to reach me: 
      ✉Email: ldgoncalvs@gmail.com
-     ❮img src="174857.png" ❯ LinkedIn: l-goncalves12
+      LinkedIn: l-goncalves12
      
