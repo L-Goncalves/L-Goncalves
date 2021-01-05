@@ -1,4 +1,4 @@
-### Hi I'm Lucas Gonçalves👋
+# Hi I'm Lucas Gonçalves👋
 
 A Front-End Web dev who's been in love with the world of coding! my journey in this world of coding started in 2018, when I was 17 Years old.
 Since then I've never stopped thinking about the possibilities that coding can bring to this world!
@@ -7,15 +7,10 @@ I currently Live in São Paulo, Brazil!
 
 
 
-## Here are some things I'm studying right now:
-   <img src="angular.png" width="16"> <b>Angular</b>
-   <br>
-   <img src="node.png" width="16"> 
-   <b>Node JS</b>
-   <br>
-  <img src="typescript.png" width="16"> 
-   <b>TypeScript</b>
-   <br>
+ ## Languages:
+   <img src="angular.png" width="75"> <img src="node.png" width="75">  <img src="typescript.png" width="75"> 
+   
+   
    💬 Feel free to ask me anything about Javascript.
 
 
