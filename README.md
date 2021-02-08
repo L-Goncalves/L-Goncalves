@@ -8,7 +8,7 @@ Desde então eu nunca parei de pensar sobre as possiblidades que codigos podem t
 
 Eu, atualmente moro em São Paulo no Brasil!
 
-## 📫 How to reach me:  
+## 📫 Como entrar em contato:  
 <img src="gmail-logo.png" width="14"> Email: ldgoncalvs@gmail.com
     
 <img src="174857.png" width="14"> LinkedIn: [Lucas Gonçalves](https://www.linkedin.com/in/l-goncalves12/)
