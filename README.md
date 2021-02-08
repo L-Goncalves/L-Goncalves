@@ -1,21 +1,12 @@
 
-# Hi I'm Lucas Gonçalves👋
+Olá meu nome é Lucas Gonçalves👋
 
 
 
-A Front-End Web dev who's been in love with the world of coding! my journey in this world of coding started in 2018, when I was 17 Years old.
-Since then I've never stopped thinking about the possibilities that coding can bring to this world!
+Desenvolvedor Front End que é apaixonado pelo mundo dos codigos! Minha Jornada começou em 2018, Quando eu tinha 17 anos.
+Desde então eu nunca parei de pensar sobre as possiblidades que codigos podem trazer a este mundo!
 
-I currently Live in São Paulo, Brazil!
-
-
-
- ## Languages:
-   <img src="angular.png" width="75"> <img src="node.png" width="75">  <img src="typescript.png" width="75"> <img src="javascript.png" width="75"> 
-   
-   
-   💬 Feel free to ask me anything about Javascript.
-
+Eu, atualmente moro em São Paulo no Brasil!
 
 ## 📫 How to reach me:  
 <img src="gmail-logo.png" width="14"> Email: ldgoncalvs@gmail.com
