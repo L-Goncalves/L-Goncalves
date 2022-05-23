@@ -7,7 +7,7 @@ Since then I haven't stop thinking about the possibilities that code can bring t
 
 Currently I live in São Paulo / Brazil!
 
-## 📫 How you can contact me entrar:  
+## 📫 How you can contact me:  
 <img src="./public/gmail-logo.png" width="14"> Email: ldgoncalvs@gmail.com
     
 <img src="./public/174857.png" width="14"> LinkedIn: [Lucas Gonçalves](https://www.linkedin.com/in/l-goncalves12/)
