@@ -1,4 +1,4 @@
-# EN
+# English
 Hi, I'm Lucas Gonçalves👋
 
 I'm a developer who is passionate about the world of codes! My journey started in 2018 when I was 17!
@@ -9,7 +9,7 @@ Currently I live in São Paulo / Brazil!
 
 <br/>
 
-# BR
+# Portuguese
 
 Olá meu nome é Lucas Gonçalves👋
 
