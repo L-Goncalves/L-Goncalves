@@ -7,6 +7,8 @@ Since then I haven't stop thinking about the possibilities that code can bring t
 
 Currently I live in São Paulo / Brazil!
 
+Check my certificates: <a href="https://github.com/L-Goncalves/L-Goncalves/tree/main/certificates">Here</a>
+
 <br/>
 
 # PT-BR
@@ -17,6 +19,8 @@ Desenvolvedor que é apaixonado pelo mundo dos codigos! Minha Jornada começou e
 Desde então eu nunca parei de pensar sobre as possiblidades que codigos podem trazer a este mundo!
 
 Eu, atualmente moro em São Paulo no Brasil!
+
+Veja meus certificados: <a href="https://github.com/L-Goncalves/L-Goncalves/tree/main/certificates">Aqui</a>
 
 ## 📫 Como entrar em contato / How you can contact me:
 <img src="./public/gmail-logo.png" width="14"> Email: ldgoncalvs@gmail.com
