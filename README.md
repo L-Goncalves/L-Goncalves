@@ -55,4 +55,6 @@ Veja meus certificados: <a href="https://github.com/L-Goncalves/L-Goncalves/tree
 <img src="./public/174857.png" width="14"> LinkedIn: [Lucas Gonçalves](https://www.linkedin.com/in/l-goncalves12/)
     
 <img src="https://logospng.org/download/whatsapp/logo-whatsapp-verde-icone-ios-android-1024.png" width="14"> Whatasapp: [Clique Aqui / Click Here](https://wa.me/5511980673912)
+    
+<img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" width="14"> Discord: !Lucas#3180
      
