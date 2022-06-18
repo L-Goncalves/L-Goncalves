@@ -25,10 +25,7 @@ Eu, atualmente moro em São Paulo no Brasil!
 
 Veja meus certificados: <a href="https://github.com/L-Goncalves/L-Goncalves/tree/main/courses-certificates">Aqui</a>
 
-## 📫 Como entrar em contato / How you can contact me:
-<img src="./public/gmail-logo.png" width="14"> Email: ldgoncalvs@gmail.com
-    
-<img src="./public/174857.png" width="14"> LinkedIn: [Lucas Gonçalves](https://www.linkedin.com/in/l-goncalves12/)
+
 ### Estatisticas / Stats
 
 
@@ -50,4 +47,10 @@ Veja meus certificados: <a href="https://github.com/L-Goncalves/L-Goncalves/tree
   <img  height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L-Goncalves&repo=study-React&theme=radical&show_icons=true"/>
 </a>
 
+    
+    
+### 📫 Como entrar em contato / How you can contact me:
+<img src="./public/gmail-logo.png" width="14"> Email: ldgoncalvs@gmail.com
+    
+<img src="./public/174857.png" width="14"> LinkedIn: [Lucas Gonçalves](https://www.linkedin.com/in/l-goncalves12/)
      
