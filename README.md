@@ -43,11 +43,11 @@ Veja meus certificados: <a href="https://github.com/L-Goncalves/L-Goncalves/tree
     
 ### Repositórios Principais / Main Repositories
 <a href="https://github.com/L-Goncalves/study-NodeJS">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L-Goncalves&repo=study-NodeJS&theme=radical&show_icons=true"/>
+  <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L-Goncalves&repo=study-NodeJS&theme=radical&show_icons=true"/>
 </a>
         &nbsp;&nbsp;
 <a href="https://github.com/L-Goncalves/study-React">
-  <img  height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L-Goncalves&repo=study-React&theme=radical&show_icons=true"/>
+  <img  height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L-Goncalves&repo=study-React&theme=radical&show_icons=true"/>
 </a>
 
      
