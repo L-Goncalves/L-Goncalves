@@ -33,7 +33,7 @@ Veja meus certificados: <a href="https://github.com/L-Goncalves/L-Goncalves/tree
 
 
 <div>
-    <img height="210em"  align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Goncalves&theme=radical&show_icons=true&layout=compact"/>
+    <img height="210em"  align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Goncalves&theme=radical&show_icons=true"/>
     &nbsp;&nbsp;
     <img height="210em"  align=top src="https://github-readme-stats.vercel.app/api?username=L-Goncalves&theme=radical&show_icons=true"/>
 <div>
