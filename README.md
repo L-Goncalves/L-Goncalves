@@ -1,3 +1,6 @@
+
+
+
 # EN-US🌐
 Hi, I'm Lucas Gonçalves👋
 
@@ -26,4 +29,25 @@ Veja meus certificados: <a href="https://github.com/L-Goncalves/L-Goncalves/tree
 <img src="./public/gmail-logo.png" width="14"> Email: ldgoncalvs@gmail.com
     
 <img src="./public/174857.png" width="14"> LinkedIn: [Lucas Gonçalves](https://www.linkedin.com/in/l-goncalves12/)
+### Estatisticas / Stats
+
+
+<div>
+    <img height="215em"  align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Goncalves&theme=radical&show_icons=true&layout=compact"/>
+    &nbsp;&nbsp;
+    <img height="212em"  align=top src="https://github-readme-stats.vercel.app/api?username=L-Goncalves&theme=radical&show_icons=true"/>
+<div>
+<br/>
+
+
+    
+### Repositórios Principais / Main Repositories
+<a href="https://github.com/L-Goncalves/study-NodeJS">
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L-Goncalves&repo=study-NodeJS&theme=radical&show_icons=true"/>
+</a>
+        &nbsp;&nbsp;
+<a href="https://github.com/L-Goncalves/study-React">
+  <img  height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L-Goncalves&repo=study-React&theme=radical&show_icons=true"/>
+</a>
+
      
