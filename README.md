@@ -52,5 +52,5 @@ Eu, atualmente moro em São Paulo no Brasil!
     
 <img src="https://logospng.org/download/whatsapp/logo-whatsapp-verde-icone-ios-android-1024.png" width="14"> Whatasapp: [Clique Aqui / Click Here](https://wa.me/5511980673912)
     
-<img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" width="14"> Discord: !Lucas#3180
+<img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" width="14"> Discord: !!! Lucas#2900
      
