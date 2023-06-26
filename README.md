@@ -21,6 +21,15 @@ Desde então eu nunca parei de pensar sobre as possiblidades que codigos podem t
 
 Eu, atualmente moro em São Paulo no Brasil!
 
+    
+    
+### 📫 Como entrar em contato / How you can contact me:
+<img src="./public/gmail-logo.png" width="14"> Email: ldgoncalvs@gmail.com
+    
+<img src="./public/174857.png" width="14"> LinkedIn: [Lucas Gonçalves](https://www.linkedin.com/in/l-goncalves12/)
+    
+<img src="https://logospng.org/download/whatsapp/logo-whatsapp-verde-icone-ios-android-1024.png" width="14"> Whatasapp: [Clique Aqui / Click Here](https://wa.me/5511980673912)
+
 
 ### Estatisticas / Stats
 
@@ -34,23 +43,6 @@ Eu, atualmente moro em São Paulo no Brasil!
 
 
     
-### Repositórios Principais / Main Repositories
-<a href="https://github.com/L-Goncalves/study-NodeJS">
-  <img height="135em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L-Goncalves&repo=study-NodeJS&theme=radical&show_icons=true"/>
-</a>
-        &nbsp;&nbsp;
-<a href="https://github.com/L-Goncalves/study-React">
-  <img  height="132em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=L-Goncalves&repo=study-React&theme=radical&show_icons=true"/>
-</a>
 
-    
-    
-### 📫 Como entrar em contato / How you can contact me:
-<img src="./public/gmail-logo.png" width="14"> Email: ldgoncalvs@gmail.com
-    
-<img src="./public/174857.png" width="14"> LinkedIn: [Lucas Gonçalves](https://www.linkedin.com/in/l-goncalves12/)
-    
-<img src="https://logospng.org/download/whatsapp/logo-whatsapp-verde-icone-ios-android-1024.png" width="14"> Whatasapp: [Clique Aqui / Click Here](https://wa.me/5511980673912)
-    
-<img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" width="14"> Discord: !!! Lucas#2900
+
      
