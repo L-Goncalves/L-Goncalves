@@ -28,7 +28,7 @@ Eu, atualmente moro em São Paulo no Brasil!
     
 <img src="./public/174857.png" width="14"> LinkedIn: [Lucas Gonçalves](https://www.linkedin.com/in/l-goncalves12/)
     
-<img src="https://logospng.org/download/whatsapp/logo-whatsapp-verde-icone-ios-android-1024.png" width="14"> Whatasapp: [Clique Aqui / Click Here](https://wa.me/5511980673912)
+<img src="https://logospng.org/download/whatsapp/logo-whatsapp-verde-icone-ios-android-1024.png" width="14"> Whatasapp: [Clique Aqui / Click Here](https://wa.me/5511932317754)
 
 
 ### Estatisticas / Stats
