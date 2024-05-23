@@ -7,7 +7,11 @@ Olá meu nome é Lucas👋
 
 Sou um Desenvolvedor Backend, adoro explorar o que eu não conheço muito, sempre disposto a aprender coisas novas e sempre com um interesse imenso.
 
-Meus interesses principais ultimamente tem sido mais focado em automações, com puppeter.
+Meus interesses principais ultimamente tem sido mais focado em automações, com puppeter, openCV, C++ entre outras coisas.
+
+Gosto também de fazer uso de APIs privadas que não tem muita documentação e descobrir como funciona por conta própria, assim não é necessário fazer requisições pelo site.
+
+Gosto de Muito Engenharia Reversa também.
 
 <br/>
 
