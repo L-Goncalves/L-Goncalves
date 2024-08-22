@@ -32,10 +32,6 @@ I'm a Backend Developer, I love to explore things I don't know much of, I'm alwa
     
 <img src="https://logospng.org/download/whatsapp/logo-whatsapp-verde-icone-ios-android-1024.png" width="14"> Whatsapp: [Click Here](https://wa.me/5511932317754)
 
-## Technologies:
-
-
-
 ### Portfolio
 // Soon to be added.
 
