@@ -1,7 +1,7 @@
 # EN🌐
 Hi, I'm Lucas👋
 
-I'm a Backend Developer, I love to explore things I don't know much of, I'm always willing to learn new stuff and contribute with whatever I like with a huge interest and making it possibly better.
+I'm a Software Developer, I love to explore things, I'm always willing to learn new stuff and contribute with whatever I like with a huge interest and making it better.
 
 **Languages**
 
