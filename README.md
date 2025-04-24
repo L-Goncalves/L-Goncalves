@@ -1,7 +1,7 @@
-# EN🌐
+# Lucas Gonçalves
 Hi, I'm Lucas👋
 
-I'm a Software Developer, I love to explore things, I'm always willing to learn new stuff and contribute with whatever I like with a huge interest and making it better.
+I'm a Software Developer with 4+ Years of Experience, I love to explore things, I'm always willing to learn new stuff and contribute with whatever I like with a huge interest and making it better.
 
 **Languages**
 
