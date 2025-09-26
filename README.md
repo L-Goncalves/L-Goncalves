@@ -3,6 +3,8 @@ Hi, I'm Lucas👋
 
 I'm a Software Developer with 4+ Years of Experience, I love to explore things, I'm always willing to learn new stuff and contribute with whatever I like with a huge interest and making it better.
 
+I am a developer who loves building great stuff to the world. If it makes world better I'm in!
+
 **Languages**
 
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
@@ -34,9 +36,6 @@ I'm a Software Developer with 4+ Years of Experience, I love to explore things, 
 <img src="./public/174857.png" width="14"> LinkedIn: [Lucas Gonçalves](https://www.linkedin.com/in/l-goncalves12/)
     
 <img src="https://logospng.org/download/whatsapp/logo-whatsapp-verde-icone-ios-android-1024.png" width="14"> Whatsapp: [Click Here](https://wa.me/5511932317754)
-
-### Portfolio
-// Soon to be added.
 
     
 
