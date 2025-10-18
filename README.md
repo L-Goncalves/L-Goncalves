@@ -33,7 +33,7 @@ I am a developer who loves building great stuff to the world. If it makes world 
     
 ### 📫 How you can contact me:
     
-<img src="./public/174857.png" width="14"> LinkedIn: [Lucas Gonçalves](https://www.linkedin.com/in/l-goncalves12/)
+<img src="./public/174857.png" width="14"> LinkedIn: [Lucas Gonçalves](https://www.linkedin.com/in/lucas-goncalves-developer/)
     
 <img src="https://logospng.org/download/whatsapp/logo-whatsapp-verde-icone-ios-android-1024.png" width="14"> Whatsapp: Removed due to spamming. Use LinkedIn to reach out.
 
