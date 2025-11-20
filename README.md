@@ -18,12 +18,15 @@ Currently Working at Alloy Automation, come meet our products at runalloy.com
 - Next
 - Mobx
 - React Native
+- Tailwind
 
 
 **Backend Development**
 - Node.js
 - Express
 - RESTful APIs
+- Nest
+- Golang
 
 
 **Cloud & DevOps**
