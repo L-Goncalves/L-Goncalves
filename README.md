@@ -1,34 +1,56 @@
 # Lucas Gonçalves
-Hi, I'm Lucas👋
 
-I'm a Software Developer with 4+ Years of Experience, I love to explore things, I'm always willing to learn new stuff and contribute with whatever I like with a huge interest and making it better.
+Hi, I'm Lucas 👋.
 
-I am a developer who loves building great stuff to the world. If it makes world better I'm in!
+Currently Working at Alloy Automation, come meet our products at runalloy.com
 
 **Languages**
+- TypeScript
+- JavaScript
+- Python
+- C++
 
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+**Frontend Development**
+- React
+- HTML5
+- CSS3
+- SASS/SCSS
+- Next
+- Mobx
+- React Native
 
-**Frontend**
 
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![SASS](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)
+**Backend Development**
+- Node.js
+- Express
+- RESTful APIs
 
 
-**Backend**
-
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-
-**DevOps / Cloud**
-
-[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+**Cloud & DevOps**
+- AWS (Amazon Web Services)
+- Docker
+- Kubernetes
+- CI/CD Pipelines
 
 **Databases**
+- PostgreSQL
+- MongoDB
+- Redis
+- SQLite
 
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) [![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev) [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
 
-**Version Control**
+**AI & Machine Learning Tools**
+- 🤖 **LLM Integration**: Claude API, GPT (OpenAI), Gemini
+- 🔗 **AI Frameworks**: LangChain, AI SDK
+- 💬 **AI-Powered Development**: Claude Code, Cursor AI, Windsurf, GitHub Copilot
+- 🛠️ **AI CLI Tools**: Claude CLI, Gemini CLI
+- 🎯 **AI Applications**: AI agents, prompt engineering, LLM orchestration
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev) [![GitLab](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
+**Version Control & Collaboration**
+
+- GitHub
+- GitLab
+- Git
 
     
 ### 📫 How you can contact me:
@@ -37,6 +59,10 @@ I am a developer who loves building great stuff to the world. If it makes world 
     
 <img src="https://logospng.org/download/whatsapp/logo-whatsapp-verde-icone-ios-android-1024.png" width="14"> Whatsapp: Removed due to spamming. Use LinkedIn to reach out.
 
+
+---
+
+*Keywords: Software Developer, Full-Stack Developer, TypeScript Developer, React Developer, Node.js Developer, AWS Cloud, Docker, Kubernetes, Web Development, Software Engineering*
     
 
 
