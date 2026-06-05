@@ -2,7 +2,7 @@
 
 Hi, I'm Lucas 👋.
 
-Currently Working at Alloy Automation, come meet our products at runalloy.com
+Currently Working at Kinter.ai, come meet our solutions at Kinter.ai
 
 **Languages**
 - TypeScript
